@@ -1,0 +1,12 @@
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\bin\Debug\net6.0\MusicStoreQueries.Domain.deps.json
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\bin\Debug\net6.0\MusicStoreQueries.Domain.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\bin\Debug\net6.0\MusicStoreQueries.Domain.pdb
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.csproj.AssemblyReference.cache
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.AssemblyInfoInputs.cache
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.AssemblyInfo.cs
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.csproj.CoreCompileInputs.cache
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\refint\MusicStoreQueries.Domain.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\MusicStoreQueries.Domain.pdb
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.Domain\obj\Debug\net6.0\ref\MusicStoreQueries.Domain.dll

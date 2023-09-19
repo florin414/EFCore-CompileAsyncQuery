@@ -1,0 +1,17 @@
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.DataAccess.deps.json
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.DataAccess.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.DataAccess.pdb
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.BusinessLogic.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.Domain.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.BusinessLogic.pdb
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\bin\Debug\net6.0\MusicStoreQueries.Domain.pdb
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.csproj.AssemblyReference.cache
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.AssemblyInfoInputs.cache
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.AssemblyInfo.cs
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.csproj.CoreCompileInputs.cache
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.csproj.CopyComplete
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\refint\MusicStoreQueries.DataAccess.dll
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\MusicStoreQueries.DataAccess.pdb
+D:\EFCore-CompileAsyncQuery\MusicStoreQueries.DataAccess\obj\Debug\net6.0\ref\MusicStoreQueries.DataAccess.dll
